@@ -19,7 +19,7 @@ A web app that is capable of predicting next word on it's own.
 
 
 ## Overview
-A web application that has a pretained model BERT  that will be loaded when they will be selected only once . After that they will serve fast as they are cached. You can select n number of next words that should come after given text.
+A web application that has a pretained model uncased BERT  that will be loaded when they will be selected only once . After that they will serve fast as they are cached. You can select n number of next words that should come after given text.
 
 ## Installation
 1. Windows user can double click on activation.bat file to install required package
