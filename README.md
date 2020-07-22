@@ -15,6 +15,8 @@ A web app that is capable of predicting next word on it's own.
 
 ## Demo
 
+![](https://i.imgur.com/NV6eqfX.jpg)
+
 
 
 
