@@ -75,7 +75,7 @@ def get_prediction_eos(input_text):
 
 try:
 
-  st.title("Next Word Prediction with Pytroch")
+  st.title("Next Word Prediction with Pytorch")
   st.sidebar.text("Next Word Prediction")
   
   top_k = st.sidebar.slider("How many words do you need", 1 , 25, 1) #some times it is possible to have less words
